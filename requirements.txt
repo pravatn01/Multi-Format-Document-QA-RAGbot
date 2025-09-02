@@ -1,0 +1,15 @@
+streamlit
+pdfplumber
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+huggingface-hub
+sentence-transformers
+chromadb
+pypdf
+torch
+tqdm
+numpy
+pydantic
+typing-extensions
